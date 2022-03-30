@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About Me
+I am an undergraduate in my penultimate year, currently pursuing a double degree in Computer Science and Psychology. I am passionate in learning the theoretical foundations and parallels between machine and human intelligence, as well as in the creation of anthropomorphic artificial intelligence systems. I also enjoy learning about new ideas, delving into new domains, and picking up new skills.
+
+<ul class="icons">
+  <li><a href="https://github.com/arsatis" class="icon fa-github"><span class="label">Github</span></a></li>
+  <li><a href="https://www.linkedin.com/in/angzhengyong/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+  <li><a href="mailto: zhengyong@comp.nus.edu.sg" class="icon fa-envelope"><span class="label">Email</span></a></li>
+</ul>
+
+
 <!--
 **arsatis/arsatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
