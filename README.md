@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 ## About Me
-I am an undergraduate in my penultimate year, currently pursuing a double degree in Computer Science and Psychology. I am passionate in learning the theoretical foundations and parallels between machine and human intelligence, as well as in the creation of anthropomorphic artificial intelligence systems. I also enjoy learning about new ideas, delving into new domains, and picking up new skills.
+I am a penultimate year student at the National University of Singapore, reading a double degree in Computer Science and Psychology. My main interests reside in computer systems and anthropomorphic artificial intelligence. During my free time, I like to explore new technologies and tools by using them to build small side projects. If you have any interesting opportunities regarding application development or would like to collaborate, please feel free to hit me up!
 
-* 🔭 I’m currently working on surviving university 🙂
-* 🌱 I’m currently learning deep learning frameworks and tools for NLP and IR
-* 👯 I’m looking to collaborate on projects on AI, ML, and NLP
+* 🔭 I'm currently reading up on advanced topics in database systems and information retrieval.
+* 🌱 I'm currently working and looking to collaborate on small projects in databases/NLP.
 * 💻 Some of the languages which I am proficient in include:
-  * Python, Java, C/C++, C#
+  * Python, Java, C/C++
   * HTML5/CSS, JavaScript/TypeScript
   * MySQL/PostgreSQL
 * 📫 How to reach me:
