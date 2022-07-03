@@ -6,7 +6,7 @@ I am a penultimate year student at the National University of Singapore, reading
 * 🔭 I'm currently reading up on advanced topics in database systems and information retrieval.
 * 🌱 I'm currently working and looking to collaborate on small projects in databases/NLP.
 * 💻 Some of the languages which I am proficient in include:
-  * Python, Java, C/C++
+  * Python, C/C++, Java
   * HTML5/CSS, JavaScript/TypeScript
   * MySQL/PostgreSQL
 * 📫 How to reach me:
