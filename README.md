@@ -5,8 +5,7 @@ I am a final year student at the National University of Singapore, reading a dou
 
 * 🔭 I'm currently reading up on advanced topics in parallel and big data systems/algorithms.
 * 💻 Some of the languages which I am proficient in include:
-  * C++, Python, Java
-  * JavaScript/TypeScript
+  * C++, Python, Java, Golang
   * MySQL/PostgreSQL
 * 📫 How to reach me:
 
