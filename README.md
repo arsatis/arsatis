@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I am a final year student at the National University of Singapore, reading a double degree in Computer Science and Psychology. My main interests reside in parallel and distributed systems, as well as anthropomorphic artificial intelligence. During my free time, I like to explore new technologies and tools by using them to build small side projects. If you have any interesting opportunities regarding application development or would like to collaborate, please feel free to hit me up!
+I am a final year student at the National University of Singapore, reading a double degree in Computer Science and Psychology. My current research interests include the theoretical underpinnings of human cognition, parallel and distributed systems, and the parallels between the two fields. During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics.
 
 * 🔭 I'm currently doing research on benchmarking blockchain systems.
 * 💻 Some of the languages which I am proficient in include:
