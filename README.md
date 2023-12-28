@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-## About Me
-I am a final year student at the National University of Singapore, reading a double degree in Computer Science and Psychology. My current research interests include parallel and distributed systems, systems for big data, and the parallels between these fields and cognitive neuroscience. During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics.
+As a software engineer and researcher, I am passionate about the development and optimization of parallel and distributed systems, with a special focus on big data applications. I also enjoy discovering the parallels between these fields and cognitive science.
 
-* 🔭 I'm currently doing research on benchmarking blockchain systems.
-* 💻 Some of the languages which I am proficient in include: C++, Python, SQL, Golang.
-* 📫 How to reach me:
+I have had the privilege of interning at [HoYoverse](https://www.hoyoverse.com/en-us), [TikTok](https://www.tiktok.com/), and [Autodesk](https://www.autodesk.com/), where I contributed to outstanding engineering teams and gained invaluable real-world experience in developing innovative solutions. I am also very grateful to have been given opportunities to work with leading researchers in their respective fields.
 
-<a href="https://arsatis.github.io/about" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Website-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/angzhengyong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto: zhengyong@u.nus.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" /></a>
+During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics. I have been doing research on benchmarking blockchain systems, and am currently looking into other distributed data systems and advanced graph theory.
+
+* 💻 Some of the languages which I am proficient in include C++, Python, SQL, and Golang.
+  * I also have some prior experience with C, Rust, JavaScript, and Java.
 
 <!--
 * 🤔 I’m looking for help with ...
