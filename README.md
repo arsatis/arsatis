@@ -6,8 +6,8 @@ I have had the privilege of interning at [HoYoverse](https://www.hoyoverse.com/e
 
 During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics. I have been doing research on benchmarking blockchain systems, and am currently looking into other distributed data systems and advanced graph theory.
 
-* 💻 Some of the languages which I am proficient in include C++, Python, SQL, and Golang.
-  * I also have some prior experience with C, Rust, JavaScript, and Java.
+* 💻 Some of the languages which I am most proficient in include C++, Python, and SQL.
+  * I also have prior experience with Golang, C, Rust, JavaScript, and Java.
 
 <!--
 * 🤔 I’m looking for help with ...
