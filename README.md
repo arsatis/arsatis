@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a software engineer and researcher, I am passionate about the development and optimization of parallel and distributed systems, with a special focus on big data applications. I also enjoy discovering the parallels between these fields and cognitive science.
+I am a software engineer and researcher who is passionate about the development and optimization of parallel and distributed systems, with a focus on scalable and performant applications. I also enjoy discovering the parallels between these fields and cognitive science.
 
 I have had the privilege of interning at [HoYoverse](https://www.hoyoverse.com/en-us), [TikTok](https://www.tiktok.com/), and [Autodesk](https://www.autodesk.com/), where I contributed to outstanding engineering teams and gained invaluable real-world experience in developing innovative solutions. I am also very grateful to have been given opportunities to work with leading researchers in their respective fields.
 
