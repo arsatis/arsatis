@@ -1,11 +1,6 @@
-### Hi 👋
-
 I am a software engineer and researcher who is passionate about the development and optimization of parallel and distributed systems, with a focus on scalable and performant applications. I also enjoy discovering the parallels between these fields and cognitive science.
 
 During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics. Some stuff which I am currently looking into include distributed systems and algorithms.
-
-* 💻 Some of the languages which I am most proficient in include C++, Python, and SQL.
-  * I also have prior experience with Golang, C, Rust, JavaScript, and Java.
 
 <!--
 * 🤔 I’m looking for help with ...
