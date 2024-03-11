@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
 I am a software engineer and researcher who is passionate about the development and optimization of parallel and distributed systems, with a focus on scalable and performant applications. I also enjoy discovering the parallels between these fields and cognitive science.
 
-I have had the privilege of interning at [HoYoverse](https://www.hoyoverse.com/en-us), [TikTok](https://www.tiktok.com/), and [Autodesk](https://www.autodesk.com/), where I contributed to outstanding engineering teams and gained invaluable real-world experience in developing innovative solutions. I am also very grateful to have been given opportunities to work with leading researchers in their respective fields.
-
-During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics. I have been doing research on benchmarking blockchain systems, and am currently looking into other distributed data systems and advanced graph theory.
+During my free time, I enjoy exploring new technologies and reading up concepts in Computer Science, Psychology, and Mathematics. Some stuff which I am currently looking into include distributed systems and algorithms.
 
 * 💻 Some of the languages which I am most proficient in include C++, Python, and SQL.
   * I also have prior experience with Golang, C, Rust, JavaScript, and Java.
